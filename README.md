@@ -4,7 +4,7 @@ The purpose of this repository is to document projects and challenges completed 
 
 | Challenge | Description |
 | --- | --- |
-| [Hello World](https://github.com/leylahunn/Java-problems/blob/master/hello-world) | A simple 'Hello World' application. |
+| [Hello World](https://github.com/leylahunn/Java-problems/blob/master/coding-problems/hello-world) | A simple 'Hello World' application. |
 | [Calculator](https://github.com/leylahunn/Java-problems/blob/master/coding-problems/calculator) | A simple calculator which finds the sum, division, multiplication and subtraction of numbers. |
 | [Squares](https://github.com/leylahunn/Java-problems/blob/master/coding-problems/square) | Finding the square of two numbers, finding the sum of these squares, finding the root of square numbers |
 | [Scanner](https://github.com/leylahunn/Java-problems/blob/master/coding-problems/scanner) | Creating a simple 'scanner' app to practice its functionality and implementation |
