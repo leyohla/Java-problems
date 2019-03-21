@@ -1,4 +1,4 @@
-#Java Problems
+# Java Problems
 
 The purpose of this repository is to document my practice with using Java, as well as to keep track of my progress while learning and solving challenges from websites like codewars.com, w3resource.com and codingbat.com. These challenges will increase in difficulty level as I progress. I have used the IntelliJ IDE to practice these challenges.
 
