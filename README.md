@@ -8,6 +8,7 @@ The purpose of this repository is to document projects and challenges completed 
 | [Calculator](https://github.com/leylahunn/Java-problems/blob/master/coding-problems/calculator) | A simple calculator which finds the sum, division, multiplication and subtraction of numbers. |
 | [Squares](https://github.com/leylahunn/Java-problems/blob/master/coding-problems/squares) | Finding the square of two numbers, finding the sum of these squares, finding the root of square numbers |
 | [Scanner](https://github.com/leylahunn/Java-problems/blob/master/coding-problems/scanner) | Creating a simple 'scanner' app to practice its functionality and implementation |
+| [Circle Measures](https://github.com/leylahunn/Java-problems/blob/master/coding-problems/circle-measures) | Calculating the area and perimeter of a circle. |
 | [Rock, Paper, Scissors](https://github.com/leylahunn/Java-problems/tree/master/coding-problems/rock-paper-scissors) | A personalised game of 'Rock, paper, scissors' using a scanner and objects |
 
 Future project ideas: 
