@@ -1,0 +1,11 @@
+public class Calculator {
+
+    public static int addNumbers(int number1,  int number2) {
+        return number1 + number2;
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println("This will add two numbers = " + (addNumbers(10,1999)));
+    }
+}
