@@ -5,7 +5,7 @@ The purpose of this repository is to document projects and challenges completed 
 | Challenge | Description |
 | --- | --- |
 | Project 1: [Hello World](https://github.com/leylahunn/Java-problems/blob/master/hello-world) | A simple 'Hello World' application. |
-| Project 2: [Calculator] | A simple calculator which finds the sum, division, multiplication and subtraction of numbers. |
+| Project 2: [Calculator](https://github.com/leylahunn/Java-problems/blob/master/coding-problems/calculator) | A simple calculator which finds the sum, division, multiplication and subtraction of numbers. |
 | Project 3: [Squares] | Finding the square of two numbers, finding the sum of these squares, finding the root of square numbers |
 | Project 4: [Scanner] | Creating a simple 'scanner' app to practice its functionality and implementation |
 | Project 5: [RPS] | A personalised game of 'Rock, paper, scissors' using a scanner and objects |
