@@ -1,0 +1,11 @@
+public class Square {
+
+    public static int Square(int number) {
+        return number * number;
+    }
+
+    public static void main(String[] args) {
+        System.out.println(Square(6));
+    }
+
+}
