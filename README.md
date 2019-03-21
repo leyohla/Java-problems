@@ -2,7 +2,7 @@
 
 The purpose of this repository is to document projects and challenges completed in Java as I practice, as well as keeping track of my progress while learning and solving challenges from websites such as codewars.com, w3resource.com and codingbat.com. These challenges will increase in difficulty level as I progress. I have used the IntelliJ IDE to practice these challenges.
 
-| Challenge | Description |
+| Project | Description |
 | --- | --- |
 | [Hello World](https://github.com/leylahunn/Java-problems/blob/master/coding-problems/hello-world) | A simple 'Hello World' application. |
 | [Calculator](https://github.com/leylahunn/Java-problems/blob/master/coding-problems/calculator) | A simple calculator which finds the sum, division, multiplication and subtraction of numbers. |
