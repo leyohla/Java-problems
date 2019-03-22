@@ -14,5 +14,5 @@ The purpose of this repository is to document projects and challenges completed 
 | [Multiplications](https://github.com/leylahunn/Java-problems/blob/master/coding-problems/multiplications) | Write a Java program that takes a number as input and prints its multiplication table up to 10. |
 | [Rock, Paper, Scissors](https://github.com/leylahunn/Java-problems/tree/master/coding-problems/rock-paper-scissors) | A personalised game of 'Rock, paper, scissors' using a scanner and objects |
 
-Future project ideas: 
+Future project ideas:  
 - Create a 2D Tile Game
