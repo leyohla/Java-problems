@@ -1,0 +1,15 @@
+public class forLoops {
+	
+	public static void main(String[] args) {
+		int row, numberOfStars;
+	
+		for(row = 1; row <=10; row++) {
+		for(numberOfStars = 1; numberOfStars <= row; numberOfStars++) {
+			System.out.println("yo");
+		}
+		System.out.println("Go to next line");
+		}
+	}
+}
+
+//For Loop practice program: Looping 'numberOfStars' iteratively and stop at 10.
