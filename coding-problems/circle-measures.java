@@ -1,3 +1,5 @@
+// Write functions that calculate the area and perimeter of a circle.
+
 public class CircleMeasures {
 
     public static double areaOfTheCircle(double radius, double pi) {
