@@ -4,7 +4,7 @@ import java.util.ArrayList;
 //import jdk.internal.jline.internal.TestAccessible;
 //import org.openqa.selenium.*;
 
-//2. A method that takes a number n, and uses square to return the first n square numbers.
+//2. A method that takes a number n, and uses square to return the first n square numbers. 
 
 public class Numbers {
 
