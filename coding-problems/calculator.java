@@ -1,3 +1,5 @@
+// Write functions that add, subtract, divide and multiply numbers together.
+
 public class Calculator {
 	
 	public static int addNumber(int number1, int number2) {
